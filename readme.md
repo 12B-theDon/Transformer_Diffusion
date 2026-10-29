@@ -10,7 +10,7 @@ Simple workspace for Transformer + Diffusion study code.
 
 ## Model Weights
 
-Locally saved checkpoints from the study notebooks (not currently tracked in Git):
+Saved checkpoints from the study notebooks:
 
 - `chapter03/checkpoints/ae_latent2.pth`: MNIST autoencoder weights with a two-dimensional latent space for reconstruction and latent-space exploration.
 - `chapter03/checkpoints/vae.pth`: MNIST VAE weights with a two-dimensional latent space for reconstruction and sampling.
